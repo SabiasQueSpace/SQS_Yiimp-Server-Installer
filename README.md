@@ -1,10 +1,10 @@
-## Dirty Harry`s YiiMP Server Installer !
+## SabiasQue.Space YiiMP Server Installer !
 
 ## This is opened as a public repo - all features are not final!
 
 All in one installer for your yiimp server.
 
-**Dirty Harry YiiMP Server Installer! ** Automates most of the tedious tasks of the following releases:
+**SabiasQue.Space YiiMP Server Installer! ** Automates most of the tedious tasks of the following releases:
 
 * YiiMP
 
@@ -27,7 +27,7 @@ Installation:
 Requires a fresh Ubuntu 16.04 or Ubuntu 18.04 installation.
 
 ```
-curl https://raw.githubusercontent.com/DirtyHarryDev/Yiimp-Server-Installer/master/bootstrap.sh | bash
+curl https://raw.githubusercontent.com/SabiasQueSpace/SQS_Yiimp-Server-Installer/master/bootstrap.sh | bash
 ```
 
 
@@ -209,6 +209,7 @@ The following GitHubs have been a source of inspiration and code:
 
 * [mailinabox](https://github.com/mail-in-a-box/mailinabox)
 * [realeas-it](https://github.com/webpro/release-it)
+* [DirtyHarryDev](https://github.com/DirtyHarryDev)
 * [cryptopool.builders](https://github.com/cryptopool-builders)
 * [Kudaraidee](https://github.com/Kudaraidee)
 
@@ -226,4 +227,8 @@ The following forks have been used in the making of the script:
 
 Join our active discord channel:
 
-https://discord.gg/myUAcrgNfc
+https://discord.gg/9Q9TCsszG5
+
+Website:
+
+https://sabiasque.space/
